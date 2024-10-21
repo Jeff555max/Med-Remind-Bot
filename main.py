@@ -4,7 +4,7 @@ import datetime
 import time
 import threading
 
-API_TOKEN = '7945599886:AAEgoIJEkhgoy-ltY5bYbGaGlb3oiEx9uA8'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 # Словарь для хранения времени напоминаний каждого пользователя
